@@ -45,7 +45,7 @@ def login():
 
 @app.route('/hello/<name>')
 def hello(name):
-    return 'Hello {}'.format(name)
+    return 'Hi {}'.format(name)
 
 @app.route('/blog/<int:post_id>')
 def show_blog(post_id):
