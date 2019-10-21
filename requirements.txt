@@ -56,5 +56,5 @@ termcolor==1.1.0
 uritemplate==3.0.0
 urllib3==1.22
 urlopen==1.0.0
-Werkzeug==0.11.15
+Werkzeug==0.15.3
 WTForms==2.1
