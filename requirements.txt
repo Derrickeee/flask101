@@ -47,7 +47,7 @@ python-dateutil==2.7.5
 python-firebase==1.2
 pytz==2017.3
 requests==2.18.4
-rsa==3.4.2
+rsa==4.1
 six==1.10.0
 SQLAlchemy==1.2.15
 swampy==2.1.7
