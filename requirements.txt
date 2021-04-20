@@ -37,7 +37,7 @@ ply==3.8
 prettytable==0.7.2
 protobuf==3.5.0.post1
 psycopg2==2.7.6.1
-py==1.7.0
+py==1.10.0
 pyasn1==0.1.9
 pyasn1-modules==0.0.8
 pypiserver==1.2.5
